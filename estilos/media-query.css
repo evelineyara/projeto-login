@@ -24,25 +24,24 @@
 }
 
 /* Configuração para telas grandes */
-@media screen and (min-width: 990px) {
+@media screen and (min-width: 992px) {
 
-     body {
+    body {
         background-image: linear-gradient(to top, rgb(0, 9, 27), rgb(0, 24, 71));
     }
 
     section#login {
-        width: 950px;
+        width: 80vw;
     }
 
-    section#logion > div#imagem {
-        float: left;
+    section#login > div#imagem {
+        float: right;
         width: 50%;
         height: 100%;
     }
 
     section#login > div#formulário {
-        float: right;
+        float: left;
         width: 50%;
     }
 }
-
