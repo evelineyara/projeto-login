@@ -4,7 +4,7 @@
 @media screen and (min-width: 768px) and (max-width: 992px) {
 
     body {
-        background-image: linear-gradient(to top, rgb(0, 9, 27), rgb(0, 24, 71));
+        background-image: linear-gradient(to bottom, rgb(0, 9, 27), black);
     }
 
     section#login {
@@ -27,7 +27,7 @@
 @media screen and (min-width: 992px) {
 
     body {
-        background-image: linear-gradient(to top, rgb(0, 9, 27), rgb(0, 24, 71));
+        background-image: linear-gradient(to bottom, rgb(0, 9, 27), black);
     }
 
     section#login {
