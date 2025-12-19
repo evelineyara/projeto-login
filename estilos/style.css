@@ -50,7 +50,6 @@ section#login > div#imagem {
         background: rgb(0, 9, 27) url(../imagens/pexels-fabianwiktor-994605.jpg);
         height: 200px;
         background-size: cover;
-        background-position: right top;
         background-repeat: no-repeat;
 }
 

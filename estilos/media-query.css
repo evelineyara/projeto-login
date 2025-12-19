@@ -24,7 +24,7 @@
 }
 
 /* Configuração para telas grandes */
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 990px) {
 
      body {
         background-image: linear-gradient(to top, rgb(0, 9, 27), rgb(0, 24, 71));
