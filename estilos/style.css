@@ -4,7 +4,6 @@
         branco
         preto
         azul - rgb(0, 9, 27)
-        verde
 */
 
 /* Configuração principal e para telas pequenas */
@@ -56,4 +55,13 @@ section#login > div#imagem {
 section#login > div#formulário {
         display: block;
         padding: 10px;
+}
+
+div#formulário > h1 {
+        text-align: center;
+        margin-bottom: 10px;
+}
+
+div#formulário > p {
+        font-size: 0.8em;
 }
